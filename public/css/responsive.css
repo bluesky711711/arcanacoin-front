@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+
+/***************************************************responsive********************************************************/
+
+@media only screen and (max-width: 1200px){
+.stats_right ul li{ padding:10px 0;}
+.stats_right ul li a{padding: 0 15px;}
+.clock_counter_main ul li{ font-size:44px;}
+.banner_left ul li{ width:160px; height:160px; padding: 20px 0;}
+.token_sale_inner_top ul li {
+  padding: 18px 30px;
+}
+.token_sale_inner_top ul::before{ display:none;}
+.token_live_stats_content{ padding:0 5px;}
+.token_live_stats_content h5{ border:none;}
+.token_live_stats_content h5 span br{ display:none;}
+.latest_news_inner h3{ font-size:18px;}
+.token_sprite > span{padding: 24px 0;}
+.roadmap_inner ul li:nth-child(2)::before{ height:210px;}
+.clock_counter_footer ul li{ font-size:30px;}
+.footer_top_right ul li {
+  padding: 0 8px;
+}
+
+}
+
+@media only screen and (max-width: 991px){
+.header_top_left h5{ padding-right:20px;}
+.logo_left{ text-align:center; margin-bottom:20px;}
+.stats_right{ text-align:center;} 
+.stats_right ul li {
+  width: 160px;
+  text-align: center;
+}
+.headermenu .navbar-nav > li {
+  padding: 0 15px;
+}
+.banner_left ul li {
+  font-size: 13px;
+  height: 140px;
+  padding: 28px 0;
+  width: 140px;
+}
+.banner_left ul li img{ width:50px;}
+.index_banner{ padding-top:350px;}
+.token_sale_inner_top h5{ font-size:22px;}
+.latest_news_inner{ margin-bottom:20px;}
+.token_sprite > span {
+  padding: 0;
+}
+.partners {
+  margin-top: -40px;
+}
+.roadmap_inner ul li:before{ display:none;}
+.footer_top_left h3,
+.footer_top_right span{ font-size:18px;}
+.clock_counter_footer ul li {
+  font-size: 24px;
+}
+.footer_top_right ul li {
+  padding: 0 4px;
+}
+.form_header_right {
+  text-align: center;
+}
+.form_body_right {
+  padding-top: 30px;
+}
+.login_form {
+  padding: 40px 90px;
+}
+
+
+}
+
+@media only screen and (max-width: 767px){
+.header_top{ text-align:center;}
+.header_top_left{ margin-bottom:10px;}
+.header_top_right{ text-align:center;}
+
+.headermenu .navbar-toggle{ margin:0; border:0; padding:10px; border-radius:0; background:#f76b16; transition:.3s;}
+.headermenu .navbar-inverse .navbar-toggle:focus, 
+.headermenu .navbar-inverse .navbar-toggle:hover { background-color: #0e1c2a; transition:.3s;}
+.headermenu .navbar-header h5{ display:inline-block;}
+.headermenu .navbar-nav > li {
+  padding: 0;
+}
+.headermenu .navbar-nav{ margin:0;}
+.headermenu .navbar-nav > li > a{ padding:8px;}
+.header_middle{ background:#0e1c2a;}
+header{ position: inherit; z-index:auto;}
+.index_banner{ padding-top:30px;}
+.token_sale_inner_top ul{ width:100%; text-align:center; margin-bottom:20px;}
+.token_sale_inner_top h5 {
+  text-align: center;
+  width: 100%;
+}
+.token_sale_inner p{ text-align:center;}
+.token_sale::after{ display:none;}
+.token_sale_inner a {
+  float: none;
+}
+.token_sale_inner {
+  text-align: center;
+}
+.token_live_stats_content img{ display:none;}
+.token_live_stats_inner{ padding:20px 0;}
+.roadmap_scale{ display:none;}
+.roadmap_inner ul li{ margin:20px 0 !important; width:50%;}
+.partners {
+  margin-top: 0;
+}
+.footer_top_left {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.footer_top_middle {
+  margin-bottom: 20px;
+}
+.footer_top_right {
+  text-align: center;
+}
+
+}
+
+@media only screen and (max-width:600px){
+.token_sale_inner_top ul li{ margin:5px;}
+.form_content{ padding:40px;}
+.form_content h2{ text-align:center;}
+.check_box{ text-align:center;}
+.submit_btn{ text-align:center;}
+.form_footer .footer_bottom h6 {
+  text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 520px){
+.main_stages_inner h2{ font-size:20px;}
+.roadmap_inner ul li {
+  width: 100%;
+}
+.form_header_right ul{ margin-bottom:20px;}
+.form_header_right ul li {
+  padding: 5px 13px;
+}
+
+}
+
+@media only screen and (max-width: 420px){
+.banner_left{ display:none;}
+.banner_right img{margin: 0 0 -50px;}
+.banner_right h4{ font-size:25px;}
+.clock_counter_main{ margin:0;}
+.clock_counter_main ul li {
+  font-size: 30px;
+}
+.token_live_stats_inner .col-xs-4{ width:100%;}
+.token_live_stats_content {
+  padding: 10px;
+}
+.main_stages_inner ul li::after{ display:none;}
+.form_content h2 span{ font-size:16px;}
+
+}
+
+@media only screen and (max-width: 360px){
+.header_top_right ul li {
+  padding: 0 5px;
+}
+.latest_news_inner > span a {
+  float: none; margin:5px 0;
+}
+
+}
+
+@media only screen and (max-width: 320px){
+
+}
