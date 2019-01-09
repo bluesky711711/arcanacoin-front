@@ -571,8 +571,8 @@
       </div>
       <div class="col-12 col-md-3">
        <div class="arc-team-sec">
-       <div class="arc-team-img"><img src="/new/images/team4.png" alt="Bing" /></div>
-       <div class="arc-team-heading">Bing</div>
+       <div class="arc-team-img"><img src="/new/images/team4.png" alt="Hu" /></div>
+       <div class="arc-team-heading">Hu</div>
        <div class="arc-team-info">Head Developer of Arcana coin - Years of programming experience , security expert, engineering, design, involved in development of two exchanges and various crypto related projects </div>
       </div>
       </div>
