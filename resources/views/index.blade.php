@@ -536,7 +536,8 @@
          <div class="arc-sale-price">$5.00 - $10.00</div>
          <div class="arc-ico-price">10x-20x ICO Price</div>
          <div class="arc-sael-text">Listing with more top 20 exchanges <span>Release of Arcanadex platform</span>
-<span>Heavy marketing campaign</span></div>
+					 <span>Heavy marketing campaign</span>
+				 </div>
         </div>
        </div>
       </div>
@@ -669,9 +670,7 @@
    </div>
   </div>
   </footer>
-
  </div><!--End of main container class arc-page-wrapper-->
-
 
 <script>
     function getTimeRemaining(endtime) {
